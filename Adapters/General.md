@@ -7,4 +7,4 @@ Even more stufff here
 ### Stuff Everywhere
 Even here
 
-![alt](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.bbc.com%2Fnews%2Feducation-39217548&psig=AOvVaw233YijCcqiTC02oKsClOvC&ust=1633438846038000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMC9_YPosPMCFQAAAAAdAAAAABAD)
+![alt](https://cxint2sa.blob.core.windows.net/test/_95146618_bills.jpg?sv=2020-04-08&st=2021-10-03T12%3A49%3A00Z&se=2025-06-05T12%3A49%3A00Z&sr=b&sp=r&sig=bUEyoRf1sf4ouXAzLqW%2Bn%2F6sTIYz3FQHX%2Fv2ZlZyqaU%3D)
